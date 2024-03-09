@@ -19,7 +19,7 @@ header {
 }
 
 nav {
-    background-color: #333;
+    background-color: aqua;
     overflow: hidden;
 }
 
@@ -65,7 +65,7 @@ section h5 {
 }
 
 footer {
-    background-color: #333;
+    background-color: aqua;
     overflow: hidden;
 }
 
